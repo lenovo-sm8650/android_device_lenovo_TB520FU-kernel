@@ -1,7 +1,7 @@
-# Lenovo Yoga Tab Plus (lapis) kernel prebuilts
+# Lenovo Yoga Tab Plus (TB520FU) kernel prebuilts
 
 From the stock ZUI_18.5.10.037 firmware of the Lenovo Yoga Tab Plus
-(TB520FU, codename lapis). The kernel image itself is built from source
+(TB520FU, Lenovo project name lapis). The kernel image itself is built from source
 (`kernel/lenovo/sm8650`, Android common kernel android14-6.1); these are the
 Lenovo and Qualcomm parts without matching public source:
 
